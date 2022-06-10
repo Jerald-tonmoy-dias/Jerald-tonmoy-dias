@@ -3,7 +3,7 @@
 📝 I'm currently learning MERN  </br>
 🕵 Expertise on Frontend Development  </br>
 🎸 Love music  </br>
-🏀 Play cricket,football,chess
+🏀 Play cricket,football,badminton,chess
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jerald.t.d)
