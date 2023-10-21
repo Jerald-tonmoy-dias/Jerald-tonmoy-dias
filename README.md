@@ -5,6 +5,10 @@
 🎸 Love music  </br>
 🏀 Play cricket,football,badminton,chess
 
+## 🌐Portfolio
+![link](https://new-portfolio-eta-two.vercel.app/)
+
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jerald.t.d)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerald-tonmoy-dias-2a0721164)
