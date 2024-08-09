@@ -1,7 +1,7 @@
 # 💫About Me :
 📋 I'm currently working on react laravel project </br>
 📝 Currently learning MERN  </br>
-🕵 Expertise on Frontend Development  </br>
+🕵 Expertise on Frontend Development(React js & React Native)  </br>
 🎸 Love music  </br>
 🏀 Play cricket,football,badminton,chess
 
