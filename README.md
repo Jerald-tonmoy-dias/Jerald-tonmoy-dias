@@ -6,10 +6,10 @@ Hello! I'm Jerald Tonmoy Dias – a Fullstack Developer with a deep passion for 
 I began my career as a Junior Frontend Developer (Intern) at SoftTech-IT LTD, where I quickly grew my skills in frontend technologies and helped launch multiple templates on ThemeForest. After advancing to Lead Frontend Developer, I further expanded my skill set to include ReactJS and Redux, while also gaining experience in RESTful API integration and mentoring junior developers. Currently, as a Fullstack Developer at GeniusOcean, I specialize in building dynamic applications with MERN stack and Laravel for clients across diverse industries.
 
 🛠️ Skills & Technologies
-👉 Frontend: HTML, CSS, SASS, Bootstrap, Tailwind CSS, Styled Components, JavaScript, jQuery, React.js, Next.js, Inertia.js, React Native
-👉 Backend: Node.js, Laravel, PHP, WordPress (customization)
-👉 Databases: MongoDB, MySQL, SQLite
-👉 Expertise: MERN stack (MongoDB, Express, React, Node.js)
+👉 Frontend: HTML, CSS, SASS, Bootstrap, Tailwind CSS, Styled Components, JavaScript, jQuery, React.js, Next.js, Inertia.js, React Native <br>
+👉 Backend: Node.js, Laravel, PHP, WordPress (customization) <br>
+👉 Databases: MongoDB, MySQL, SQLite <br>
+👉 Expertise: MERN stack (MongoDB, Express, React, Node.js) <br>
 👉 Tools: Git, GitHub, Bitbucket, Postman, Netlify, Vercel, Photoshop, Figma, Adobe XD
 
 
