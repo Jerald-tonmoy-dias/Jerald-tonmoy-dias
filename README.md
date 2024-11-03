@@ -1,16 +1,21 @@
-# 👋About Me :
+# 👋 About Me
 
-Hello! I'm Jerald Tonmoy Dias – a Fullstack Developer with a deep passion for creating web applications that are both functional and visually engaging. My expertise lies in the MERN stack and React Native, and I bring a strong foundation in Laravel to my backend work. Alongside my professional role, I also take on freelance projects, helping clients build custom, high-quality solutions for their web applications. With hands-on experience in WordPress customization, I adapt to a variety of web development needs, creating flexible and scalable solutions.
+Hello! I'm **Jerald Tonmoy Dias** – a dedicated **Frontend Developer** with a strong focus on creating dynamic and user-friendly web applications. My expertise lies in **React.js**, **Next.js**, and **React Native**, where I strive to build engaging user interfaces that deliver exceptional experiences. While my primary role is in frontend development, I also have valuable experience in backend technologies, allowing me to understand and contribute to full-stack projects effectively. Additionally, I take on **freelance projects**, helping clients bring their ideas to life with customized web solutions.
 
-## 💼Professional Experience
-I began my career as a Junior Frontend Developer (Intern) at SoftTech-IT LTD, where I quickly grew my skills in frontend technologies and helped launch multiple templates on ThemeForest. After advancing to Lead Frontend Developer, I further expanded my skill set to include ReactJS and Redux, while also gaining experience in RESTful API integration and mentoring junior developers. Currently, as a Fullstack Developer at GeniusOcean, I specialize in building dynamic applications with MERN stack and Laravel for clients across diverse industries.
+## 💼 Professional Experience
 
-## 🛠️Skills & Technologies
-👉 Frontend: HTML, CSS, SASS, Bootstrap, Tailwind CSS, Styled Components, JavaScript, jQuery, React.js, Next.js, Inertia.js, React Native <br>
-👉 Backend: Node.js, Laravel, PHP, WordPress (customization) <br>
-👉 Databases: MongoDB, MySQL, SQLite <br>
-👉 Expertise: MERN stack (MongoDB, Express, React, Node.js) <br>
-👉 Tools: Git, GitHub, Bitbucket, Postman, Netlify, Vercel, Photoshop, Figma, Adobe XD
+I began my career as a **Junior Frontend Developer (Intern)** at SoftTech-IT LTD(Imjol), where I quickly honed my skills in frontend technologies and contributed to launching multiple templates on ThemeForest. After advancing to **Lead Frontend Developer**, I expanded my knowledge to include **ReactJS** and **Redux**, gaining experience in **RESTful API integration** and mentoring junior developers. Currently, as a **Lead Frontend Developer** at GeniusOcean, I leverage my frontend expertise alongside my backend experience, specializing in building dynamic applications that meet client needs.
+
+## 🛠️ Skills & Technologies
+
+- **Frontend**: HTML, CSS, SASS, Bootstrap, Tailwind CSS, Styled Components, JavaScript, jQuery, React.js, Next.js, React Native
+- **Backend**: Node.js, Laravel, PHP, WordPress (customization)
+- **Databases**: MongoDB, MySQL, SQLite
+- **Expertise**: MERN stack (MongoDB, Express, React, Node.js)
+- **Tools**: Git, GitHub, Bitbucket, Postman, Netlify, Vercel, Photoshop, Figma, Adobe XD
+
+## 🎸 When I'm Not Coding
+I enjoy playing cricket, football, badminton, and chess, and I love making music on my guitar. Outside of tech, you’ll find me traveling, reading, and embracing new adventures.
 
 
 ## ⭐Portfolio
