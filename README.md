@@ -1,4 +1,7 @@
 # 💫About Me :
+
+Hi, I'm Jerald Tonmoy Dias – a passionate Fullstack Developer who loves building innovative solutions for the web. With strong expertise in React and Laravel, I thrive on crafting applications that balance functionality and aesthetic appeal. Currently, I’m expanding my skills with the MERN stack and continually pushing the boundaries of modern web development.
+
 📋 I'm currently working on react laravel project </br>
 📝 Currently learning MERN  </br>
 🕵 Expertise on Frontend Development(React js & React Native)  </br>
