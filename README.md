@@ -14,15 +14,17 @@ I began my career as a **Junior Frontend Developer (Intern)** at SoftTech-IT LTD
 - **Expertise**: MERN stack (MongoDB, Express, React, Node.js)
 - **Tools**: Git, GitHub, Bitbucket, Postman, Netlify, Vercel, Photoshop, Figma, Adobe XD
 
+## 🚀 Professional Goals 
+- **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+
 ## 🎸 When I'm Not Coding
 I enjoy playing cricket, football, badminton, and chess, and I love making music on my guitar. Outside of tech, you’ll find me traveling, reading, and embracing new adventures.
 
 
-## ⭐Portfolio
+## ⭐ Some of My Projects
 💻 https://new-portfolio-eta-two.vercel.app/
 
-## 🎸When I'm Not Coding
-I enjoy playing cricket, football, badminton, and chess, and I love making music on my guitar. Outside of tech, you’ll find me traveling, reading, and embracing new adventures.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jerald.t.d)
