@@ -1,16 +1,23 @@
-# 💫About Me :
+# 👋About Me :
 
-Hi, I'm Jerald Tonmoy Dias – a passionate Fullstack Developer who loves building innovative solutions for the web. With strong expertise in React and Laravel, I thrive on crafting applications that balance functionality and aesthetic appeal. Currently, I’m expanding my skills with the MERN stack and continually pushing the boundaries of modern web development.
+Hello! I'm Jerald Tonmoy Dias – a Fullstack Developer with a deep passion for creating web applications that are both functional and visually engaging. My expertise lies in the MERN stack and React Native, and I bring a strong foundation in Laravel to my backend work. Alongside my professional role, I also take on freelance projects, helping clients build custom, high-quality solutions for their web applications. With hands-on experience in WordPress customization, I adapt to a variety of web development needs, creating flexible and scalable solutions.
 
-📋 I'm currently working on react laravel project </br>
-📝 Currently learning MERN  </br>
-🕵 Expertise on Frontend Development(React js & React Native)  </br>
-🎸 Love music  </br>
-🏀 Play cricket,football,badminton,chess
+## 💼Professional Experience
+I began my career as a Junior Frontend Developer (Intern) at SoftTech-IT LTD, where I quickly grew my skills in frontend technologies and helped launch multiple templates on ThemeForest. After advancing to Lead Frontend Developer, I further expanded my skill set to include ReactJS and Redux, while also gaining experience in RESTful API integration and mentoring junior developers. Currently, as a Fullstack Developer at GeniusOcean, I specialize in building dynamic applications with MERN stack and Laravel for clients across diverse industries.
+
+🛠️ Skills & Technologies
+👉 Frontend: HTML, CSS, SASS, Bootstrap, Tailwind CSS, Styled Components, JavaScript, jQuery, React.js, Next.js, Inertia.js, React Native
+👉 Backend: Node.js, Laravel, PHP, WordPress (customization)
+👉 Databases: MongoDB, MySQL, SQLite
+👉 Expertise: MERN stack (MongoDB, Express, React, Node.js)
+👉 Tools: Git, GitHub, Bitbucket, Postman, Netlify, Vercel, Photoshop, Figma, Adobe XD
+
 
 ## ⭐Portfolio
 💻 https://new-portfolio-eta-two.vercel.app/
 
+## 🎸When I'm Not Coding
+I enjoy playing cricket, football, badminton, and chess, and I love making music on my guitar. Outside of tech, you’ll find me traveling, reading, and embracing new adventures.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jerald.t.d)
