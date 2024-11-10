@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hello! I'm **Jerald Tonmoy Dias** – a dedicated **Frontend Developer** with a strong focus on creating dynamic and user-friendly web applications. My expertise lies in **React.js**, **Next.js**, and **React Native**, where I strive to build engaging user interfaces that deliver exceptional experiences. While my primary role is in frontend development, I also have valuable experience in backend technologies, allowing me to understand and contribute to full-stack projects effectively. Additionally, I take on **freelance projects**, helping clients bring their ideas to life with customized web solutions.
+Hello! I'm **Jerald Tonmoy Dias** – a dedicated **Frontend Developer** with a strong focus on creating dynamic and user-friendly web applications. My expertise lies in **React.js**, **Next.js**, **React Native** and **Flutter**, where I strive to build engaging user interfaces that deliver exceptional experiences. While my primary role is in frontend development, I also have valuable experience in backend technologies, allowing me to understand and contribute to full-stack projects effectively. Additionally, I take on **freelance projects**, helping clients bring their ideas to life with customized web solutions.
 
 ## 💼 Professional Experience
 
@@ -8,10 +8,11 @@ I began my career as a **Junior Frontend Developer (Intern)** at SoftTech-IT LTD
 
 ## 🛠️ Skills & Technologies
 
-- **Frontend**: HTML, CSS, SASS, Bootstrap, Tailwind CSS, Styled Components, JavaScript, jQuery, React.js, Next.js, React Native, Flutter
+- **Frontend**: HTML, CSS, SASS, Bootstrap, Tailwind CSS, Styled Components, JavaScript, jQuery, **React.js**, **Next.js**, **React Native**, **Flutter**
 - **Backend**: Node.js, Laravel, PHP, WordPress (customization)
 - **Databases**: MongoDB, MySQL, SQLite
 - **Expertise**: MERN stack (MongoDB, Express, React, Node.js)
+- **Specialist**: Frontend development
 - **Tools**: Git, GitHub, Bitbucket, Postman, Netlify, Vercel, Photoshop, Figma, Adobe XD
 
 ## 🚀 Professional Goals 
@@ -19,7 +20,7 @@ I began my career as a **Junior Frontend Developer (Intern)** at SoftTech-IT LTD
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
 ## 🎸 When I'm Not Coding
-I enjoy playing cricket, football, badminton, and chess, and I love making music on my guitar. Outside of tech, you’ll find me traveling, reading, and embracing new adventures.
+I enjoy playing Table tennis, Cricket, Football, Badminton, and Chess, and I love making music on my guitar. Outside of tech, you’ll find me traveling, reading, and embracing new adventures.
 
 
 ## ⭐ Some of My Projects
