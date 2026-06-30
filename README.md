@@ -9,7 +9,8 @@ I began my career as a **Junior Frontend Developer (Intern)** at SoftTech-IT LTD
 ## 🛠️ Skills & Technologies
 
 - **Frontend**: HTML, CSS, SASS, Bootstrap, Tailwind CSS, Styled Components, JavaScript, jQuery, **React.js**, **Next.js**, **React Native**, **Flutter(Learning)**
-- **Backend**: Node.js, Laravel, PHP, WordPress (customization)
+- **Backend**: Node.js, Laravel, PHP, Python (learning)
+- **CMS**: Payload CMS, Sanity, WordPress (customization)
 - **Databases**: MongoDB, MySQL, SQLite
 - **Expertise**: MERN stack (MongoDB, Express, React, Node.js)
 - **Specialist**: Frontend development
