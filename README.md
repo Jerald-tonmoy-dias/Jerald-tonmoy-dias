@@ -1,28 +1,30 @@
 # 👋 About Me
 
-Hello! I'm **Jerald Tonmoy Dias** – a dedicated **Frontend Developer** with a strong focus on creating dynamic and user-friendly web applications. My expertise lies in **React.js**, **Next.js**, **React Native** and **Flutter**, where I strive to build engaging user interfaces that deliver exceptional experiences. While my primary role is in frontend development, I also have valuable experience in backend technologies, allowing me to understand and contribute to full-stack projects effectively. Additionally, I take on **freelance projects**, helping clients bring their ideas to life with customized web solutions.
+Hello! I'm **Jerald Tonmoy Dias** – a **Software Developer** with 5+ years of professional experience building modern, scalable, and high-performance web applications. My primary expertise is in React.js and Next.js, where I've built production-ready applications with a strong focus on performance, maintainability, and user experience. Alongside frontend development, I've gained hands-on experience with backend technologies including Node.js, Laravel, and Python, allowing me to contribute across the full application stack.
 
 ## 💼 Professional Experience
 
-I began my career as a **Junior Frontend Developer (Intern)** at SoftTech-IT LTD(Imjol), where I quickly honed my skills in frontend technologies and contributed to launching multiple templates on ThemeForest. After advancing to **Lead Frontend Developer**, I expanded my knowledge to include **ReactJS** and **Redux**, gaining experience in **RESTful API integration** and mentoring junior developers. Currently, as a **Lead Frontend Developer** at GeniusOcean, I leverage my frontend expertise alongside my backend experience, specializing in building dynamic applications that meet client needs.
+Over the past 5+ years, I've progressed from a Junior Frontend Developer to a Lead Frontend Developer and later a Software Developer, working on a wide range of production applications across multiple industries.
+Throughout my career, I've:
+
+- Built scalable web applications using React.js and Next.js.
+- Designed and integrated RESTful APIs with frontend applications.
+- Worked with backend technologies including Node.js, Laravel, and Python.
+- Mentored junior developers and participated in code reviews.
+- Built content-driven applications using headless CMS platforms such as Payload CMS and Sanity.
+- Collaborated with cross-functional teams to deliver high-quality software solutions.
 
 ## 🛠️ Skills & Technologies
 
-- **Frontend**: HTML, CSS, SASS, Bootstrap, Tailwind CSS, Styled Components, JavaScript, jQuery, **React.js**, **Next.js**, **React Native**, **Flutter(Learning)**
-- **Backend**: Node.js, Laravel, PHP, Python (learning)
+- **Frontend**: HTML, CSS, SASS, Bootstrap, Tailwind CSS, Styled Components, JavaScript, jQuery, **React.js**, **Next.js**, **React Native**, **Flutter**
+- **Backend**: Node.js,Express.js, Laravel, PHP, Python, Flask
 - **CMS**: Payload CMS, Sanity, WordPress (customization)
-- **Databases**: MongoDB, MySQL, SQLite
-- **Expertise**: MERN stack (MongoDB, Express, React, Node.js)
-- **Specialist**: Frontend development
-- **Tools**: Git, GitHub, Bitbucket, Postman, Netlify, Vercel, Photoshop, Figma, Adobe XD
+- **Databases**: MongoDB, MySQL, SQLite, PostgreSQL
+- **Tools**: Git, GitHub, Bitbucket, Docker, Postman, Netlify, Vercel, Photoshop, Figma, Azure
 
 ## 🚀 Professional Goals 
 - **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
-
-## 🎸 When I'm Not Coding
-I enjoy playing Table tennis, Cricket, Football, Badminton, and Chess, and I love making music on my guitar. Outside of tech, you’ll find me traveling, reading, and embracing new adventures.
-
 
 ## ⭐ Some of My Projects
 💻 https://new-portfolio-eta-two.vercel.app/
@@ -39,11 +41,6 @@ I enjoy playing Table tennis, Cricket, Football, Badminton, and Chess, and I lov
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jerald-tonmoy-dias&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerald-tonmoy-dias&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jerald-tonmoy-dias&icon=0&color=0)](https://visitcount.itsvg.in)
