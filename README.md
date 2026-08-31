@@ -50,6 +50,8 @@ Public marketplace products. Other production work stays private.
 
 - [frontend-system-design-guide](https://github.com/Jerald-tonmoy-dias/frontend-system-design-guide) — frontend architecture notes
 - [url-shortner](https://github.com/Jerald-tonmoy-dias/url-shortner) — Node.js API (Express, PostgreSQL, Drizzle, JWT, Docker Compose)
+- [issues-tracker](https://github.com/Jerald-tonmoy-dias/issues-tracker) — Next.js / TypeScript issue tracker (Prisma, MySQL)
+- [intelligent-blog](https://github.com/Jerald-tonmoy-dias/intelligent-blog) — Flask practice API with pytest (in-memory posts)
 
 ### Earlier commercial work
 
@@ -58,7 +60,7 @@ Public marketplace products. Other production work stays private.
 
 ### Learning / practice
 
-Public 2026 Python work (Flask APIs, scraping, spaCy, churn analysis) is practice alongside the product work above.
+Public 2026 Python work is practice (Flask APIs, scraping, spaCy, churn analysis), not professional Python employment.
 
 ---
 
