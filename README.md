@@ -2,7 +2,7 @@
 
 Lead frontend / fullstack engineer (React.js, Next.js, TypeScript), now focused on **Python**, backend engineering, and **applied ML**.
 
-Since 2021 I have shipped production web applications, including years as a **Lead Frontend Developer**. That frontend/fullstack work is still the core of my professional credibility. Most recently I was a **Software Developer** (Next.js, TypeScript, headless CMS) after 4+ years leading frontend delivery. I am now building my own products while going deeper into Python, backend, and applied ML — GenAI is next, not something I claim as shipped proof yet.
+Since 2021 I have shipped production web applications, including years as a **Lead Frontend Developer**. That frontend/fullstack work is still the core of my professional credibility. Most recently I was a **Software Developer** (Next.js, TypeScript, headless CMS) after 5+ years leading frontend delivery. I am now building my own products while going deeper into Python, backend, and applied ML — GenAI is next, not something I claim as shipped proof yet.
 
 **[Portfolio](https://new-portfolio-eta-two.vercel.app/)** · **[LinkedIn](https://linkedin.com/in/jerald-tonmoy-dias-2a0721164)** · tonmoyjareld@gmail.com
 
