@@ -1,8 +1,8 @@
 # Jerald Tonmoy Dias
 
-Software engineer with a strong frontend/fullstack foundation, now deepening into backend engineering, Python, and applied AI.
+Lead frontend / fullstack engineer (React.js, Next.js, TypeScript), now focused on **Python**, backend engineering, and **applied ML**.
 
-Since 2021 I have shipped production web applications with **React.js**, **Next.js**, and **TypeScript**, including years as a **Lead Frontend Developer**. That frontend/fullstack work is still the core of my professional credibility. After several years of production work, I am currently building my own products while going deeper into backend engineering, Python, system design, and applied AI — toward becoming a more complete software engineer across frontend, backend, data, infrastructure, and AI-powered systems.
+Since 2021 I have shipped production web applications, including years as a **Lead Frontend Developer**. That frontend/fullstack work is still the core of my professional credibility. Most recently I was a **Software Developer** (Next.js, TypeScript, headless CMS) after 4+ years leading frontend delivery. I am now building my own products while going deeper into Python, backend, and applied ML — GenAI is next, not something I claim as shipped proof yet.
 
 **[Portfolio](https://new-portfolio-eta-two.vercel.app/)** · **[LinkedIn](https://linkedin.com/in/jerald-tonmoy-dias-2a0721164)** · tonmoyjareld@gmail.com
 
@@ -10,15 +10,15 @@ Since 2021 I have shipped production web applications with **React.js**, **Next.
 
 ## Currently building
 
-I am currently working on my own projects while deepening my engineering skills across backend development, Python, system design, and applied AI.
+**Onushilon** is my primary personal product: an EdTech platform for exam prep. I am using it to practice real product and backend architecture (FastAPI-oriented services and a mobile client). The backend and AI surfaces are still evolving; the repo is private.
 
-**Onushilon** is my primary personal product: an EdTech platform for exam prep. I am using it to practice real product and backend architecture (including a FastAPI-oriented service design and a mobile client). The backend and AI surfaces are still evolving.
+Public Python work from 2026 is **practice**, not professional Python or ML employment: Flask APIs, pandas/scikit-learn, scraping, and spaCy.
 
 ---
 
 ## Experience
 
-- **Software Developer L1** · LemonHive · Jan 2026 – May 2026  
+- **Software Developer** · LemonHive · Jan 2026 – May 2026  
   Next.js, TypeScript, Payload CMS, Sanity, Storybook, API-driven frontends
 - **Lead Frontend Developer** · GeniusOcean · Oct 2023 – Dec 2025  
   React/Next production apps, Laravel API integration, React Native, mentoring
@@ -53,14 +53,17 @@ Public marketplace products. Other production work stays private.
 - [issues-tracker](https://github.com/Jerald-tonmoy-dias/issues-tracker) — Next.js / TypeScript issue tracker (Prisma, MySQL)
 - [intelligent-blog](https://github.com/Jerald-tonmoy-dias/intelligent-blog) — Flask practice API with pytest (in-memory posts)
 
+### Python / ML practice
+
+Labeled practice on purpose. These are how I am building Python and ML skill, not job titles.
+
+- [intelligent-blog](https://github.com/Jerald-tonmoy-dias/intelligent-blog) — Flask REST API, validation, pytest
+- [churn-prediction](https://github.com/Jerald-tonmoy-dias/churn-prediction) — pandas, logistic regression, Flask + Plotly dashboard
+
 ### Earlier commercial work
 
 - [Arobix](https://themeforest.net/item/arobix-creative-digital-business-it-solutions-agency-html-template/57323487) — HTML template
 - [Roister](https://demo.orbitaps.com/html/roister/) — HTML template
-
-### Learning / practice
-
-Public 2026 Python work is practice (Flask APIs, scraping, spaCy, churn analysis), not professional Python employment.
 
 ---
 
