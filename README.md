@@ -41,19 +41,13 @@ I am currently working on my own projects while deepening my engineering skills 
 
 ### Professional / production
 
-Live products. Source is private or under NDA.
+Public marketplace products. Other production work stays private.
 
-- [Word Connection](https://www.word-connection.com/) — Next.js, Payload CMS, Storybook
-- [The Hot Box Sauna](https://thehotboxsauna.ie/) — Next.js, Payload CMS, Storybook
-- [Rehabs UK](https://rehabsuk.com/) — Nuxt.js 2, Sanity, Storybook
-- [SiteIQ Audit](https://www.lemonhive.com/siteiq-audit) — Next.js, Sanity, Storybook, API integration
 - [Charity](https://codecanyon.net/item/charity-dynamic-crowdfunding-platform-with-multiple-payment-gateway/20144730) — React.js, Next.js, Laravel APIs
 - [Khadyo](https://codecanyon.net/item/khadyo-restaurant-software/29878013) — React.js, Laravel APIs
-- **Carta Reale** (NDA) — banking UI, React.js, Material UI, Laravel APIs · [walkthrough](https://www.loom.com/share/e9b66a8ae2e74c168f495b5b2a79d6b7)
 
 ### Public engineering
 
-- [taghyeer-tsk](https://github.com/Jerald-tonmoy-dias/taghyeer-tsk) — Next.js / TypeScript realtime chat ([demo](https://taghyeer-tsk.vercel.app/))
 - [frontend-system-design-guide](https://github.com/Jerald-tonmoy-dias/frontend-system-design-guide) — frontend architecture notes
 - [url-shortner](https://github.com/Jerald-tonmoy-dias/url-shortner) — Node.js API (Express, PostgreSQL, Drizzle, JWT, Docker Compose)
 
