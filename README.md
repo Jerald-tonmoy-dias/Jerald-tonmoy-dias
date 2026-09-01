@@ -12,7 +12,7 @@ Since 2021 I have shipped production web applications, including years as a **Le
 
 **Onushilon** is my primary personal product: an EdTech platform for exam prep. I am using it to practice real product and backend architecture (FastAPI-oriented services and a mobile client). The backend and AI surfaces are still evolving; the repo is private.
 
-Public Python work from 2026 is **practice**, not professional Python or ML employment: Flask APIs, pandas/scikit-learn, scraping, and spaCy.
+Public Python work from 2026 is **practice**, not professional Python or ML employment: FastAPI, Flask APIs, pandas/scikit-learn, scraping, and spaCy.
 
 ---
 
@@ -52,6 +52,7 @@ Public marketplace products. Other production work stays private.
 - [url-shortner](https://github.com/Jerald-tonmoy-dias/url-shortner) — Node.js API (Express, PostgreSQL, Drizzle, JWT, Docker Compose)
 - [issues-tracker](https://github.com/Jerald-tonmoy-dias/issues-tracker) — Next.js / TypeScript issue tracker (Prisma, MySQL)
 - [intelligent-blog](https://github.com/Jerald-tonmoy-dias/intelligent-blog) — Flask practice API with pytest (in-memory posts)
+- [symptom-lens](https://github.com/Jerald-tonmoy-dias/symptom-lens) — FastAPI + spaCy rule-based symptom checker (chat UI, pytest)
 
 ### Python / ML practice
 
@@ -59,6 +60,7 @@ Labeled practice on purpose. These are how I am building Python and ML skill, no
 
 - [intelligent-blog](https://github.com/Jerald-tonmoy-dias/intelligent-blog) — Flask REST API, validation, pytest
 - [churn-prediction](https://github.com/Jerald-tonmoy-dias/churn-prediction) — pandas, logistic regression, Flask + Plotly dashboard
+- [symptom-lens](https://github.com/Jerald-tonmoy-dias/symptom-lens) — FastAPI, spaCy, JSON knowledge base, multi-turn chat UI
 
 ### Earlier commercial work
 
